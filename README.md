@@ -1,11 +1,11 @@
-# Kaggle-Data-Analysis
+# Kaggle-Data-Analysis   
 
-** Contributor
-JongHwan Park : pjh403@naver.com
-Ho Hyeun Hwang : hhhwang94@naver.com
+** Contributor   
+JongHwan Park : pjh403@naver.com   
+Ho Hyeun Hwang : hhhwang94@naver.com   
 
-These notebooks are based on kaggle data that has various subject. 
-We have branched each folder for each topic. And data you need is attached separately by link.
+These notebooks are based on kaggle data that has various subject.    
+We have branched each folder for each topic. And data you need is attached separately by link.   
 
 ## Data list
 
