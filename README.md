@@ -1,7 +1,7 @@
 # Kaggle-Data-Analysis   
 
 ** Contributor   
-JongHwan Park : pjh403@naver.com   
+JongHwan Park : bomebug15@ds.seoultech.ac.kr   
 Ho Hyeun Hwang : hhhwang94@naver.com   
 
 These notebooks are based on kaggle data that has various subject.    
