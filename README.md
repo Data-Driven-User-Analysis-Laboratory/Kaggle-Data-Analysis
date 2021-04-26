@@ -2,7 +2,7 @@
 
 ** Contributor   
 JongHwan Park : bomebug15@ds.seoultech.ac.kr   
-Ho Hyeun Hwang : hhhwang94@naver.com   
+HoHyeun Hwang : hhhwang94@naver.com   
 
 These notebooks are based on kaggle data that has various subject.    
 We have branched each folder for each topic. And data you need is attached separately by link.   
